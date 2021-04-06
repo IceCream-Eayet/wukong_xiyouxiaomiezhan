@@ -1,0 +1,24 @@
+{
+  "PanelInfoList": [
+    {
+      "PanelTypelString": "KnackPanel",
+      "Path": "UIPanels/KnackPanel"
+    },
+    {
+      "PanelTypelString": "CinematicsPanel",
+      "Path": "UIPanels/CinematicsPanel"
+    },
+    {
+      "PanelTypelString": "GameOverPanel",
+      "Path": "UIPanels/GameOverPanel"
+    },
+    {
+      "PanelTypelString": "IllustratePanel",
+      "Path": "UIPanels/IllustratePanel"
+    },
+    {
+      "PanelTypelString": "MainPanel",
+      "Path": "UIPanels/MainPanel"
+    }
+  ]
+}
